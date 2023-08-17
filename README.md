@@ -1,4 +1,4 @@
-# Chinese medical dialogue data 中文医疗对话数据集
+# Chinese medical dialogue data 中文医疗问答数据集
 
 ## 数据
 
